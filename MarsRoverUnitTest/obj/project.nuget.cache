@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xXqtGTwLfHX5HE+jdKBwNzVx4PBUtsABu0TmOyB4gihqvJZvJ5B9jgHeW3OawaZ76dFKNzcVUIIwfgB66vBjsw==",
+  "dgSpecHash": "fiBZvp8oBO58JKI9/QpDCVFL2OhJwzCv+98kv8IWJpLEr7PNw41jEeVTWzF7Sr88uYkiUGdAWTwD/0X+XLxFJw==",
   "success": false,
-  "projectFilePath": "D:\\Project Example\\MarsRover_Case\\MarsRoverUnitTest\\MarsRoverUnitTest.csproj",
+  "projectFilePath": "D:\\Project Example\\MarsRover\\MarsRoverUnitTest\\MarsRoverUnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\murat\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\murat\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
@@ -98,8 +98,8 @@
     {
       "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project 'D:\\Project Example\\MarsRover_Case\\Mars_Rover_Case\\MarsRover.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "D:\\Project Example\\MarsRover_Case\\Mars_Rover_Case\\MarsRover.csproj",
+      "message": "Unable to find project 'D:\\Project Example\\MarsRover\\Mars_Rover_Case\\MarsRover.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "D:\\Project Example\\MarsRover\\Mars_Rover_Case\\MarsRover.csproj",
       "targetGraphs": [
         ".NETCoreApp,Version=v3.1"
       ]

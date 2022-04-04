@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Project Example\\MarsRover_Case\\MarsRoverUnitTest\\MarsRoverUnitTest.csproj": {}
+    "D:\\Project Example\\MarsRover\\MarsRoverUnitTest\\MarsRoverUnitTest.csproj": {}
   },
   "projects": {
-    "D:\\Project Example\\MarsRover_Case\\MarsRoverUnitTest\\MarsRoverUnitTest.csproj": {
+    "D:\\Project Example\\MarsRover\\MarsRoverUnitTest\\MarsRoverUnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project Example\\MarsRover_Case\\MarsRoverUnitTest\\MarsRoverUnitTest.csproj",
+        "projectUniqueName": "D:\\Project Example\\MarsRover\\MarsRoverUnitTest\\MarsRoverUnitTest.csproj",
         "projectName": "MarsRoverUnitTest",
-        "projectPath": "D:\\Project Example\\MarsRover_Case\\MarsRoverUnitTest\\MarsRoverUnitTest.csproj",
+        "projectPath": "D:\\Project Example\\MarsRover\\MarsRoverUnitTest\\MarsRoverUnitTest.csproj",
         "packagesPath": "C:\\Users\\murat\\.nuget\\packages\\",
-        "outputPath": "D:\\Project Example\\MarsRover_Case\\MarsRoverUnitTest\\obj\\",
+        "outputPath": "D:\\Project Example\\MarsRover\\MarsRoverUnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Project Example\\MarsRover_Case\\MarsRover\\MarsRover.csproj": {
-                "projectPath": "D:\\Project Example\\MarsRover_Case\\MarsRover\\MarsRover.csproj"
+              "D:\\Project Example\\MarsRover\\MarsRover\\MarsRover.csproj": {
+                "projectPath": "D:\\Project Example\\MarsRover\\MarsRover\\MarsRover.csproj"
               },
-              "D:\\Project Example\\MarsRover_Case\\Mars_Rover_Case\\MarsRover.csproj": {
-                "projectPath": "D:\\Project Example\\MarsRover_Case\\Mars_Rover_Case\\MarsRover.csproj"
+              "D:\\Project Example\\MarsRover\\Mars_Rover_Case\\MarsRover.csproj": {
+                "projectPath": "D:\\Project Example\\MarsRover\\Mars_Rover_Case\\MarsRover.csproj"
               }
             }
           }
@@ -87,14 +87,14 @@
         }
       }
     },
-    "D:\\Project Example\\MarsRover_Case\\MarsRover\\MarsRover.csproj": {
+    "D:\\Project Example\\MarsRover\\MarsRover\\MarsRover.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project Example\\MarsRover_Case\\MarsRover\\MarsRover.csproj",
+        "projectUniqueName": "D:\\Project Example\\MarsRover\\MarsRover\\MarsRover.csproj",
         "projectName": "MarsRover",
-        "projectPath": "D:\\Project Example\\MarsRover_Case\\MarsRover\\MarsRover.csproj",
+        "projectPath": "D:\\Project Example\\MarsRover\\MarsRover\\MarsRover.csproj",
         "packagesPath": "C:\\Users\\murat\\.nuget\\packages\\",
-        "outputPath": "D:\\Project Example\\MarsRover_Case\\MarsRover\\obj\\",
+        "outputPath": "D:\\Project Example\\MarsRover\\MarsRover\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

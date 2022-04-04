@@ -21,13 +21,27 @@ namespace MarsRover
         }
         public void Go(string actions)
         {
+            Step.Action(actions);
             if (Position.X > PositionState.MaxX || Position.Y > PositionState.MaxY || Position.X < PositionState.MinX || Position.Y < PositionState.MinY)
             {
                 Console.WriteLine("You are out of mars!!");
-            }
-            else
-            {
-                Step.Action(actions);
+
+                if (Position.X > PositionState.MaxX)
+                {
+                    Position.X = PositionState.MaxX;
+                }
+                if (Position.X < PositionState.MinX)
+                {
+                    Position.X = PositionState.MinX;
+                }
+                if (Position.Y > PositionState.MaxY)
+                {
+                    Position.Y = PositionState.MaxY;
+                }
+                if (Position.Y < PositionState.MinY)
+                {
+                    Position.Y = PositionState.MinY;
+                }
             }
         }
         public override string ToString()
